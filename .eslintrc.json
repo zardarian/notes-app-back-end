@@ -11,6 +11,17 @@
     },
     "rules": {
         "no-console": "off",
-        "no-underscore-dangle":  ["error", { "allow": ["_service", "_notes", "_validator", "_pool", "_authenticationsService", "_usersService", "_tokenManager"] }]
+        "no-underscore-dangle":  ["error", { "allow": [
+            "_service",
+            "_notes",
+            "_validator",
+            "_pool",
+            "_authenticationsService",
+            "_usersService",
+            "_tokenManager",
+            "_collaborationService",
+            "_collaborationsService",
+            "_notesService"
+        ]}]
     }
 }
