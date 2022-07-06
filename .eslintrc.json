@@ -25,7 +25,9 @@
             "_exports",
             "_folder",
             "_data",
-            "_S3"
+            "_S3",
+            "_client",
+            "_cacheService"
         ]}]
     }
 }
