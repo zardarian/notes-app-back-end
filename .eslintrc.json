@@ -23,7 +23,9 @@
             "_collaborationsService",
             "_notesService",
             "_exports",
-            "_folder"
+            "_folder",
+            "_data",
+            "_S3"
         ]}]
     }
 }
